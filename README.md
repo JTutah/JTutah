@@ -13,3 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 Hello, I'm Josh, a aspiring Data Analyst with a passion for extracting meaningful insights from data. I specialize in statistical analysis and data visualization, and I'm currently working on projects that involve sales data analysis and forecasting future trends. I am also always eager for a chance to learn and am willing to broaden these genres for new expirences using different tools.
 
+## Contact Information
+
+- **Email**: JTSchleininger@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/joshua-schleininger-84a551281
+- **Phone**: 
